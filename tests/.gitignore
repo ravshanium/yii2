@@ -1,2 +1,7 @@
 /runtime/cache/*
 /data/config.local.php
+/_bootstrap.php
+/.gitignore
+/acceptance.suite.yml
+/functional.suite.yml
+/unit.suite.yml

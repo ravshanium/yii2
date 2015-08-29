@@ -34,3 +34,10 @@ phpunit.phar
 # ignore sub directory for dev installed apps and extensions
 /apps
 /extensions
+
+/tests/_output/*
+
+/tests/bootstrap.php
+/tests/_output/.gitignore
+/.gitignore
+/codeception.yml
